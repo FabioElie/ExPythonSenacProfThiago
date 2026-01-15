@@ -1,3 +1,5 @@
+# Escreva um programa que leia 10 inteiros positivos, ignorando não positivos, e imprima sua 
+# média. 
 lista = []
 
 for num in range(0,10):

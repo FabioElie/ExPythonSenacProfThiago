@@ -1,3 +1,5 @@
+#  Crie um programa que some todos os números naturais abaixo de 1000 que são múltiplos de 3 
+# ou 5. 
 soma = 0
 
 for i in range(1, 1000):

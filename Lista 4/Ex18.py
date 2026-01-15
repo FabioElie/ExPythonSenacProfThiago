@@ -1,3 +1,5 @@
+# Escreva um algoritmo que leia certa quantidade de números e imprima o maior deles. A 
+# quantidade de números a serem lidos deve será fornecida pelo usuário.
 lista = []
 quantidade = int(input("Quantos números seram digitados? "))
 numero = int(input("Digite o 1º número: "))
