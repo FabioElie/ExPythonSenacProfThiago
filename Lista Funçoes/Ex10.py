@@ -11,7 +11,7 @@ def financiamento(valorVeiculo, valorEntrada, taxaJuros, qtdParcelas):
     print(f"Taxa de juros: {taxaJuros*100:.2f}% ao mês")
     print(f"Quantidade de parcelas: {qtdParcelas}")
     print(f"Valor aproximado de cada parcela: R$ {valorParcela:.2f}")
-    print(f"Total pago ao final: R$ {montanteFinal:.2f}")
+    print(f"Total pago ao final: R$ {montanteFinal+valorEntrada:.2f}")
     print(f"Total de juros pagos: R$ {jurosTotais:.2f}")
 
 
